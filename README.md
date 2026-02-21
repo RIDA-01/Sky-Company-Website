@@ -6,7 +6,7 @@ A responsive, multi-page corporate website for **Sky Company** - a web developme
 
 ---
 
-## ✨ Features
+## Features
 
 - **Responsive Navigation** - Bootstrap navbar with active state highlighting across all pages
 - **Hero Carousel** - Full-width image slider with overlay text and call-to-action buttons on homepage
@@ -18,7 +18,7 @@ A responsive, multi-page corporate website for **Sky Company** - a web developme
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
