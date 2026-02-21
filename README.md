@@ -24,10 +24,9 @@ A responsive, multi-page corporate website for **Sky Company** - a web developme
 |------------|---------|
 | **HTML5** | Semantic markup structure |
 | **SCSS/Sass** | Modular styling with variables and mixins |
-| **JavaScript (ES6+)** | Interactive functionality |
+| **JavaScript** | Interactive functionality |
 | **jQuery** | DOM manipulation and event handling |
 | **Bootstrap 4.6** | Responsive grid system and UI components |
-| **Webpack 5** | Module bundling and build process |
 | **Font Awesome 5** | Icons for social media and UI elements |
 | **Popper.js** | Tooltip and dropdown positioning |
 
